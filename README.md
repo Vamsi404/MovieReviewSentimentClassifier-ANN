@@ -1,6 +1,6 @@
 # 🎥 Movie Review Sentiment Classifier - ANN
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg) ![Python](https://img.shields.io/badge/python-3.7%2B-brightgreen.svg)
+![Python](https://img.shields.io/badge/python-3.7%2B-brightgreen.svg)
 
 An artificial neural network (ANN) for sentiment analysis of movie reviews. This project classifies reviews as **positive** or **negative** using a deep learning model built with Keras and TensorFlow.
 
